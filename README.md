@@ -1,7 +1,11 @@
 
-**CurrencyApp** images and apk file
+# CurrencyApp images and apk file
 
-I used **DIO** in flutter to retrieve the currencies for each date from the _National Bank server._
+### 📱 About App
+> I used **DIO** in flutter to retrieve the currencies for each date from the _National Bank server._
+
+### Yuklab olish
+[![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Xolisbek/Flutter_CurrencyApp_Assets/releases/download/CurrencyApp/app-release.apk)
 
 ### Light theme:
 ![photo_2025-03-04_23-51-45](https://github.com/user-attachments/assets/c8ef1dc5-6798-47ca-ad79-f46e492f3823)

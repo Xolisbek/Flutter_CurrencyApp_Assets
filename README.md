@@ -10,9 +10,10 @@
 
 ## 📸 Screenshots
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/c8ef1dc5-6798-47ca-ad79-f46e492f3823" alt="photo_2025-03-04_23-51-45" width="200" />
+  <img src="https://github.com/user-attachments/assets/3f965646-7c12-4bb1-bae0-e01d84104c0a" alt="photo_2025-03-04_23-51-45" width="200" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/e5fb9f10-a1a8-4601-aaee-a394fe660154" alt="photo_2025-03-04_23-51-45" width="200" />
+  <img src="https://github.com/user-attachments/assets/08bb58de-b191-476e-95d4-c4b91e895dde" alt="photo_2025-03-04_23-51-45" width="200" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/c4b1f8d2-e89a-47fa-96bb-9ff473ee8524" alt="photo_2025-03-04_23-51-45" width="200" />
+  <img src="https://github.com/user-attachments/assets/364e8db0-9ff0-42ff-8871-f77b6de51dc2" alt="photo_2025-03-04_23-51-45" width="200" />
 </div>
+

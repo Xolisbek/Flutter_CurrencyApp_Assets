@@ -3,6 +3,8 @@
 
 ### 📱 About App
 > I used **DIO** in flutter to retrieve the currencies for each date from the _National Bank server._
+>
+> Technical: Dart, Flutter, Bloc, Lottie animations, DIO, Multi Language, MultiTheme, Provider(for changing theme)
 
 
 ### 📥 Download Apk

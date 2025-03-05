@@ -5,7 +5,7 @@
 > I used **DIO** in flutter to retrieve the currencies for each date from the _National Bank server._
 
 
-### 📥 Yuklab olish
+### 📥 Download Apk
 [![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Xolisbek/Flutter_CurrencyApp_Assets/releases/download/CurrencyApp/app-release.apk)
 
 ## 📸 Screenshots
